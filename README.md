@@ -1,7 +1,7 @@
 ## Hi there 👋
-
 <!--
 **Nirmal-Goyal/Nirmal-Goyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 I'm Nirmal Goyal  
 
@@ -29,6 +29,3 @@ Welcome to my GitHub profile! I'm passionate about coding, web development. Here
 
 
 ⭐ **Feel free to connect and collaborate!**  
-
-
--->
