@@ -8,7 +8,7 @@ I'm Nirmal Goyal
 Welcome to my GitHub profile! I'm passionate about coding, web development. Here’s a little about me:  
 
 ## 🚀 About Me  
-- 🎓 Learning **C programming, C++, Web Development, and Excel** at PW Institute of Innovation.    
+- 🎓 Currently Learning **C programming, C++, Web Development**.    
 - 🌱 Currently exploring **frontend frameworks and animations** to enhance user experience.  
 - 🤝 Open to collaborations on **web development**.  
 
