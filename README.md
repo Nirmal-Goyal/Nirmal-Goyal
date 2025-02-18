@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about coding, web development. Here
 
 ## 📫 How to Reach Me  
 - 📧 Email: [nirmalgoyal0108@gmail.com](mailto:nirmalgoyal0108@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/nirmal-goyal](www.linkedin.com/in/nirmal-goyal)   
+- 🔗 LinkedIn: [linkedin.com/in/nirmal-goyal](https://www.linkedin.com/in/nirmalgoyal)   
 
 
 ⭐ **Feel free to connect and collaborate!**  
