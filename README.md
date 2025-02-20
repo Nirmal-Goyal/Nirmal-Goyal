@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about coding, web development. Here
 - 🌱 Currently exploring **frontend frameworks and animations** to enhance user experience.  
 - 🤝 Open to collaborations on **web development**.  
 
-## 🛠️ Tech Stack  
+## 🛠️ Skills  
 - **Languages:** C, C++, HTML, CSS, JavaScript  
 - **Web Development**  
 - **Tools:** GitHub, VS Code 
