@@ -25,7 +25,12 @@ Welcome to my GitHub profile! I'm passionate about coding, web development. Here
 
 ## 📫 How to Reach Me  
 - 📧 Email: [nirmalgoyal0108@gmail.com](mailto:nirmalgoyal0108@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/nirmal-goyal](https://www.linkedin.com/in/nirmalgoyal)   
+- 🔗 LinkedIn: [linkedin.com/in/nirmal-goyal](https://www.linkedin.com/in/nirmalgoyal)
+
+## GitHub Stats and Contribution Graph
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirmal-Goyal&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal-Goyal&layout=compact)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Blue?logo=codeforces)](https://codeforces.com/profile/Nirmal-Goyal)
 
 
 ⭐ **Feel free to connect and collaborate!**  
