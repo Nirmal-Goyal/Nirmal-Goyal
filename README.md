@@ -26,13 +26,17 @@ Welcome to my GitHub profile! I'm passionate about coding, web development. Here
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal-Goyal&layout=compact)
 
 ## 🌐 Competitive Programming  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Nirmal-Goyal/) 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Nirmal-Goyal?theme=dark&font=ABeeZee&ext=heatmap)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Blue?logo=codeforces)](https://codeforces.com/profile/Nirmal-Goyal)  
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nirmal-Goyal&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/Nirmal-Goyal)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/nirmalgoyal)
-![CodeChef Stars](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=CodeChef%20Stars&query=stars&url=https://competitive-coding-api.herokuapp.com/api/codechef/nirmalgoyal)
 
+### 📍 LeetCode  
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/Nirmal-Goyal/)  
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nirmal-Goyal?theme=dark&font=ABeeZee&ext=heatmap)
+
+### 📍 Codeforces  
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-Blue?logo=codeforces)](https://codeforces.com/profile/Nirmal-Goyal)  
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nirmal-Goyal&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/Nirmal-Goyal)
+
+### 📍 CodeChef  
+[![CodeChef Profile](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/nirmalgoyal)  
 
 ## 📫 How to Reach Me  
 - 📧 Email: [nirmalgoyal0108@gmail.com](mailto:nirmalgoyal0108@gmail.com)  
