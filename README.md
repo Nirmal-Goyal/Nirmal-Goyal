@@ -1,86 +1,94 @@
-## 👋 Hi there! I'm Nirmal Goyal
+# Nirmal Goyal
 
-Welcome to my GitHub profile! I'm passionate about coding.
-
----
-
-## 🚀 About Me  
-🎓 I'm currently pursuing **BSc Computer Science** from **BITS Pilani** & **PW IOI**.  
-👨‍💻 Passionate about **Web Development**, **Solving Problem**, and building real-world projects.  
-🤝 Always open to collaboration, hackathons, and building cool things together!
+Software Developer | Full-Stack & Backend Focus  
+BSc Computer Science — BITS Pilani
 
 ---
 
-## 🛠️ Skills & Tools  
+## About
 
-### 💻 Languages  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+I am a software developer, currently pursuing a **BSc in Computer Science at BITS Pilani**.  
+My primary focus is on building **Web applications**, strengthening **backend systems**, and developing a solid foundation in **machine learning**.
 
-### 🧰 Tools & Platforms  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)  
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)
+I value clean code, strong fundamentals, and learning by building real projects.
 
 ---
 
-## 📌 Projects  
+## Current Focus
 
-### 🔢 Prime Number Checker  
-🧮 A simple web tool to check if a number is prime.  
-🚀 [Live Demo](https://prime-number-checker-six.vercel.app/)  
-🛠️ Tech: HTML, CSS, JavaScript  
-
-### 🏏 Cricket Score Predictor  
-📊 A machine learning-based web app that predicts team scores using past match data and player performance.  
-🧠 Model trained on real cricket datasets with Python ML libraries.  
-🛠️ Tech: Python, Pandas, NumPy, Scikit-learn, Matplotlib  
-
-### 🧮 Calculator  
-🧰 A responsive calculator for basic arithmetic operations with an interactive UI.  
-🚀 [Live Demo](#) <!-- You can replace this with your calculator’s actual live link -->  
-🛠️ Tech: HTML, CSS, JavaScript
+- Full-stack development using **MERN**
+- Backend development with **Java & Spring Boot**
+- Foundations of **AI / Machine Learning**
+- Writing maintainable, readable, and testable code
+- Getting started with **open-source contributions**
 
 ---
 
-## 🌐 Competitive Programming  
+## Technical Skills
 
-### 📍 LeetCode  
-[![LeetCode Profile](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/nirmalgoyal/)  
-![LeetCode Stats](https://leetcard.jacoblin.cool/nirmalgoyal?theme=dark&font=ABeeZee&ext=heatmap)
+### Programming Languages
+- JavaScript
+- Java
+- Python
+- C / C++
 
----
+### Web & Backend
+- React
+- Node.js
+- Express.js
+- REST APIs
+- MongoDB
+- Spring Boot (learning)
 
-### 📍 Codeforces  
-[![Codeforces Profile](https://img.shields.io/badge/Codeforces-445f9d?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Nirmal-Goyal)  
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Nirmal-Goyal&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/Nirmal-Goyal)
+### Data & ML
+- Pandas
+- NumPy
+- Scikit-learn
+- Data preprocessing & model evaluation
 
----
-
-### 📍 CodeChef  
-[![CodeChef Profile](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/nirmalgoyal)  
-![CodeChef Stats](https://codechef-readme-stats.vercel.app/api/card?username=nirmalgoyal&theme=dark)
-
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirmal-Goyal&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal-Goyal&layout=compact)
-
----
-
-## 📫 Connect With Me  
-📧 [nirmalgoyal0108@gmail.com](mailto:nirmalgoyal0108@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/nirmal-goyal)
+### Tools
+- Git & GitHub
+- Linux (CLI basics)
+- VS Code
+- Postman
 
 ---
 
-⭐ *Feel free to connect, collaborate, or just say hi!*
+## Projects
+
+### Prime Number Checker
+A lightweight web application to validate prime numbers with a clean UI.
+
+- Tech: HTML, CSS, JavaScript  
+- Live: https://prime-number-checker-six.vercel.app/
+
+---
+
+### Cricket Score Prediction System
+A machine-learning based system that predicts match scores using historical cricket data.
+
+- Tech: Python, Pandas, NumPy, Scikit-learn  
+- Focus: data preprocessing, feature engineering, regression models
+
+---
+
+## Competitive Programming
+
+- Solved 500+ problems across platforms
+- Strong fundamentals in arrays, strings, simulation, and basic algorithms
+
+**Profiles**
+- LeetCode: https://leetcode.com/u/nirmalgoyal/
+- Codeforces: https://codeforces.com/profile/Nirmal-Goyal
+- CodeChef: https://www.codechef.com/users/nirmalgoyal
+
+---
+
+## Contact
+
+- Email: nirmalgoyal0108@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/nirmal-goyal
+
+---
+
+I am open to collaboration, internships, open-source work, and learning opportunities.
