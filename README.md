@@ -69,11 +69,15 @@ A production-ready backend REST API for managing tasks with authentication, auth
 
 ---
 
-### Cricket Score Prediction System
-A machine-learning based system that predicts match scores using historical cricket data.
+### Cricket Score Prediction System — Machine Learning Project
+A machine learning–based system that predicts first-innings cricket scores using historical match data and regression models.
 
-- Tech: Python, Pandas, NumPy, Scikit-learn  
-- Focus: data preprocessing, feature engineering, regression models
+- Features:
+  - Score prediction using historical cricket data
+  - Data preprocessing and feature engineering
+  - Regression-based machine learning models
+- Tech: Python, Pandas, NumPy, Scikit-learn
+- GitHub: https://github.com/dev-buddies/first_inning_score_predictor
 
 ---
 
