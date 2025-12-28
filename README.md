@@ -56,11 +56,16 @@ I value clean code, strong fundamentals, and learning by building real projects.
 
 ## Projects
 
-### Prime Number Checker
-A lightweight web application to validate prime numbers with a clean UI.
+### TaskFlow API — Task Management Backend
+A production-ready backend REST API for managing tasks with authentication, authorization, and user-based data ownership.
 
-- Tech: HTML, CSS, JavaScript  
-- Live: https://prime-number-checker-six.vercel.app/
+- Features:
+  - JWT-based authentication
+  - Secure password hashing
+  - Task CRUD with user ownership enforcement
+  - Request validation and centralized error handling
+- Tech: Node.js, Express, MongoDB, Mongoose, JWT, Zod
+- GitHub: https://github.com/Nirmal-Goyal/taskflow-api
 
 ---
 
@@ -69,6 +74,50 @@ A machine-learning based system that predicts match scores using historical cric
 
 - Tech: Python, Pandas, NumPy, Scikit-learn  
 - Focus: data preprocessing, feature engineering, regression models
+
+---
+
+### FastAPI CRUD Backend — Backend Project
+A backend REST API built with FastAPI supporting CRUD operations with automatic and interactive API documentation.
+
+- Features:
+  - CRUD endpoints for resource management
+  - Automatic request validation
+  - Interactive API documentation (Swagger UI)
+- Tech: Python, FastAPI, Pydantic, Swagger UI
+- GitHub: https://github.com/velle-coder/fastapi_crud
+
+---
+
+### Weather Report App — JavaScript Project
+A JavaScript-based weather application that fetches and displays real-time weather data for different cities using an external API.
+
+- Features:
+  - Search weather by city name
+  - Displays temperature, humidity, and wind speed
+  - Real-time weather updates
+- Tech: Vanilla JavaScript, HTML, CSS, External Weather API
+- Live: https://nirmal-goyal.github.io/javaScript_projects/project_01_weather_report/
+
+---
+
+### Bengaluru Highlights — Frontend Project
+A static frontend web project showcasing iconic places in Bengaluru with a clean and responsive UI.
+
+- Features:
+  - Explore iconic places in Bengaluru
+  - Clean navigation and layout
+  - Responsive frontend design
+- Tech: HTML, CSS
+- Live: https://bengaluru-highlights.vercel.app
+
+---
+
+### Prime Number Checker
+A lightweight web application to validate prime numbers with a clean UI.
+
+- Tech: HTML, CSS, JavaScript  
+- Live: https://prime-number-checker-six.vercel.app/
 
 ---
 
