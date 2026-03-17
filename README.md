@@ -1,25 +1,27 @@
 # Nirmal Goyal
 
-Software Developer | Full-Stack & Backend Focus  
-BSc Computer Science — BITS Pilani
+Software Developer | Backend & Full-Stack (MERN)  
+BSc Computer Science — BITS Pilani  
 
 ---
 
 ## About
 
-I am a software developer, currently pursuing a **BSc in Computer Science at BITS Pilani**.  
-My primary focus is on building **Web applications**, strengthening **backend systems**, and developing a solid foundation in **machine learning**.
+I am a Computer Science student at **BITS Pilani**.
 
-I value clean code, strong fundamentals, and learning by building real projects.
+My primary focus is on building **scalable backend systems and real-world web applications using the MERN stack**. I enjoy designing APIs, working with databases, and developing clean, maintainable code.
+
+Alongside web development, I have explored **Java Spring Boot** and have a growing interest in **AI/ML**, while continuously improving my **data structures and problem-solving skills**.
 
 ---
 
 ## Current Focus
 
-- Full-stack development using **MERN**
-- Backend development with **Java & Spring Boot**
-- Foundations of **AI / Machine Learning**
-- Writing maintainable, readable, and testable code
+- Full-stack development using **MERN (MongoDB, Express, React, Node.js)**
+- Backend development with **Node.js, Express, TypeScript**
+- Building **real-time applications using WebSockets**
+- Strengthening **Data Structures & Algorithms**
+- Exploring **system design fundamentals**
 - Getting started with **open-source contributions**
 
 ---
@@ -27,111 +29,94 @@ I value clean code, strong fundamentals, and learning by building real projects.
 ## Technical Skills
 
 ### Programming Languages
-- JavaScript
+- JavaScript / TypeScript
 - Java
 - Python
 - C / C++
 
-### Web & Backend
-- React
+### Backend & Web
 - Node.js
 - Express.js
-- REST APIs
+- REST API Design
+- WebSockets (real-time systems)
 - MongoDB
-- Spring Boot (learning)
+- Authentication (JWT, session handling)
 
-### Data & ML
-- Pandas
-- NumPy
-- Scikit-learn
-- Data preprocessing & model evaluation
+### Frontend
+- React
+- HTML, CSS
+- Tailwind CSS
+- Bootstrap
+
+### Other Technologies
+- Spring Boot (basic understanding)
+- Pandas, NumPy, Scikit-learn (basic ML workflows)
 
 ### Tools
 - Git & GitHub
 - Linux (CLI basics)
-- VS Code
 - Postman
+- VS Code
 
 ---
 
 ## Projects
 
+### Real-Time Chat Application — WebSocket-Based System
+A real-time communication backend built using WebSockets with room-based messaging and scalable connection handling.
+
+- Features:
+  - Bidirectional real-time communication
+  - Room-based architecture
+  - Efficient socket and memory management
+- Tech: Node.js, TypeScript, WebSocket (ws)
+
+---
+
+### YouTube Clone — Full-Stack Video Platform
+A full-stack web application inspired by YouTube, focusing on responsive UI and modular frontend architecture.
+
+- Features:
+  - Video browsing and playback interface
+  - Responsive design
+  - API-driven content rendering
+- Tech: React, REST APIs
+
+---
+
 ### TaskFlow API — Task Management Backend
-A production-ready backend REST API for managing tasks with authentication, authorization, and user-based data ownership.
+A production-ready REST API with authentication and user-based data isolation.
 
 - Features:
   - JWT-based authentication
   - Secure password hashing
-  - Task CRUD with user ownership enforcement
-  - Request validation and centralized error handling
-- Tech: Node.js, Express, MongoDB, Mongoose, JWT, Zod
+  - Task CRUD with ownership enforcement
+  - Centralized validation and error handling
+- Tech: Node.js, Express, MongoDB, Mongoose, JWT, Zod  
 - GitHub: https://github.com/Nirmal-Goyal/taskflow-api
 
 ---
 
 ### Cricket Score Prediction System — Machine Learning Project
-A machine learning–based system that predicts first-innings cricket scores using historical match data and regression models.
+A regression-based machine learning system to predict first-innings cricket scores using historical data.
 
 - Features:
-  - Score prediction using historical cricket data
-  - Data preprocessing and feature engineering
-  - Regression-based machine learning models
-- Tech: Python, Pandas, NumPy, Scikit-learn
+  - Feature engineering and preprocessing
+  - Model training and evaluation
+- Tech: Python, Pandas, NumPy, Scikit-learn  
 - GitHub: https://github.com/dev-buddies/first_inning_score_predictor
-
----
-
-### FastAPI CRUD Backend — Backend Project
-A backend REST API built with FastAPI supporting CRUD operations with automatic and interactive API documentation.
-
-- Features:
-  - CRUD endpoints for resource management
-  - Automatic request validation
-  - Interactive API documentation (Swagger UI)
-- Tech: Python, FastAPI, Pydantic, Swagger UI
-- GitHub: https://github.com/velle-coder/fastapi_crud
-
----
-
-### Weather Report App — JavaScript Project
-A JavaScript-based weather application that fetches and displays real-time weather data for different cities using an external API.
-
-- Features:
-  - Search weather by city name
-  - Displays temperature, humidity, and wind speed
-  - Real-time weather updates
-- Tech: Vanilla JavaScript, HTML, CSS, External Weather API
-- Live: https://nirmal-goyal.github.io/javaScript_projects/project_01_weather_report/
-
----
-
-### Bengaluru Highlights — Frontend Project
-A static frontend web project showcasing iconic places in Bengaluru with a clean and responsive UI.
-
-- Features:
-  - Explore iconic places in Bengaluru
-  - Clean navigation and layout
-  - Responsive frontend design
-- Tech: HTML, CSS
-- Live: https://bengaluru-highlights.vercel.app
-
----
-
-### Prime Number Checker
-A lightweight web application to validate prime numbers with a clean UI.
-
-- Tech: HTML, CSS, JavaScript  
-- Live: https://prime-number-checker-six.vercel.app/
 
 ---
 
 ## Competitive Programming
 
-- Solved 500+ problems across platforms
-- Strong fundamentals in arrays, strings, simulation, and basic algorithms
+- Solved **1000+ problems** across platforms  
+- Strong problem-solving skills across:
+  **arrays, sorting, searching, two pointers, strings, linked lists, stacks, queues, trees, graphs, heaps, dynamic programming, and core algorithmic patterns**
 
 **Profiles**
 - LeetCode: https://leetcode.com/u/nirmalgoyal/
+- GeeksforGeeks: https://www.geeksforgeeks.org/profile/nirmalgoyalgfg
 - Codeforces: https://codeforces.com/profile/Nirmal-Goyal
 - CodeChef: https://www.codechef.com/users/nirmalgoyal
 
@@ -140,8 +125,12 @@ A lightweight web application to validate prime numbers with a clean UI.
 ## Contact
 
 - Email: nirmalgoyal0108@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/nirmal-goyal
+- LinkedIn: https://www.linkedin.com/in/nirmal-goyal  
 
 ---
 
-I am open to collaboration, internships, open-source work, and learning opportunities.
+## Open To
+
+- Backend / Full-Stack Internships  
+- Open-source contributions  
+- Collaborative projects and learning opportunities
